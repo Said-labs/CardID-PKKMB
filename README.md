@@ -1,0 +1,1 @@
+Perkenalan mahasiswa baru Telkom University. Berisi biodata, foto profil interaktif 3D, link sosial media (Instagram, LinkedIn), serta tombol video perkenalan. Dibuat dengan HTML + CSS sederhana, responsif, dan mobile‑friendly.
