@@ -2,40 +2,26 @@
 
 Project ini adalah "Digital ID Card" untuk kegiatan "PKKMB Telkom University 2026", dibuat sebagai representasi diri saya sekaligus latihan web development.
 
----
-
-## 👤 About Me
-- Nama: Sa'id Abdul Aziz  
-- Nama panggilan: Said  
-- Program Studi: Informatika  
-- Fakultas: Fakultas Informatika  
-- Asal Daerah: Soreang  
-- Kelompok: 07  
-
----
-
-## ✨ Features
+##  Features
 - 🎨 Tampilan ID Card dengan background Telkom University  
 - 🖼️ Foto profil + data diri  
 - 🌐 Integrasi sosial media (Instagram, LinkedIn)  
 - 🔘 Tombol interaktif: *See introduce myself*  
 
----
 
-## 🖼️ Preview
+## Preview
 <img width="1917" height="1021" alt="Screenshot 2026-07-08 073321" src="https://github.com/user-attachments/assets/4bc6d3d5-802b-4388-8d9e-912f0171531d" />
 
 
----
 
-## 🛠️ Tech Stack
+## Tech Stack
 - HTML + CSS → layout & styling  
 - JavaScript → interaktivitas tombol  
 - Assets → background Telkom University, icon sosial media  
 
----
 
-## 🚀 How to Run
+
+##  How to Run
 1. Clone repository:
    ```bash
    git clone https://github.com/saidaziz/CardID-PKKMB.git
